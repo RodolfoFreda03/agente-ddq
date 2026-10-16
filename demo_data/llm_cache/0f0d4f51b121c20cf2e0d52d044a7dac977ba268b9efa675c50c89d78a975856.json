@@ -1,0 +1,8 @@
+{
+  "content": "{\"category\": \"strategy\", \"figures_or_commitments\": 1, \"forward_looking\": 1}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 186,
+  "completion_tokens": 25,
+  "total_tokens": 211
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Based on the fund's simulated policy, unlisted positions and side pockets are prohibited [S09]. The fund's permitted instruments are listed equities, index futures, currency forwards, and cash, while unlisted securities are explicitly excluded [S02].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1734,
+  "completion_tokens": 53,
+  "total_tokens": 1787
+}

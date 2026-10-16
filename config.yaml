@@ -1,0 +1,72 @@
+confidence_weights: {c1_similarity: 0.40, c2_source_coverage: 0.30, c3_freshness: 0.15, c4_consistency: 0.15}
+risk_weights:       {r1_category: 0.50, r2_figures_commitments: 0.20, r3_forward_looking: 0.15, r4_investor: 0.15}
+
+high_confidence_threshold: 0.80
+low_risk_threshold: 0.40
+compliance_floor: 0.70            # per-category thresholds can never go below this value
+
+category_risk:
+  organisation: 0.1
+  strategy: 0.3
+  operations: 0.3
+  cybersecurity: 0.5
+  risk_management: 0.5
+  conflicts_of_interest: 0.8
+  fees: 0.9
+  esg: 0.9
+  performance: 1.0
+  legal_regulatory: 1.0
+
+protected_categories: [performance, fees, legal_regulatory, conflicts_of_interest, esg]
+
+freshness_days:                   # beyond this age a source is no longer "fresh"
+  performance: 31
+  aum: 31
+  default: 365
+
+as_of_date: null                  # "today" for freshness checks; set a date (e.g. 2026-11-15) to demo stale sources
+
+auto_sample_rate: 0.10            # share of AUTO answers flagged for a human spot check
+heavy_edit_threshold: 0.30        # more than 30% of text changed = heavy correction
+
+email:
+  notify_reviewer: true           # optional notification when a new DDQ is ready
+  # Fictional fallback addresses, used only if REVIEWER_EMAIL / DEMO_INVESTOR_EMAIL
+  # are not set in .env. Never real addresses -- MAIL_MODE=folder means nothing
+  # ever leaves this machine either way (see section "mail" below).
+  reviewer: "reviewer@alken-fund.example"
+  internal_whitelist: ["reviewer@alken-fund.example"]
+  check_interval_minutes: 5
+
+mail:
+  mode_env: MAIL_MODE              # .env: MAIL_MODE=folder (simulated) | gmail (real, not used yet)
+  mailbox_dir: mailbox              # mailbox/inbox, mailbox/sent, mailbox/processed
+  default_sender: "investor@northgate-pension.example"  # used when a .sender.txt sidecar is missing
+
+llm:
+  provider: gemini                # gemini | groq -- groq is defined but unused (Gemini free tier only)
+  providers:
+    gemini:
+      base_url: "https://generativelanguage.googleapis.com/v1beta/openai/"
+      api_key_env: GEMINI_API_KEY
+      # Model choice (see README "Model choice" for the full story):
+      # 2026-10-13: confirmed with the user against the live /models list,
+      # pinning writing_model to gemini-3.8-flash for reproducibility.
+      # 2026-10-14: that pin turned out to carry a hard free-tier cap of
+      # 20 requests/DAY (not per-minute) -- exhausted mid-run on milestone 5
+      # and confirmed by the API's own 429 error. gemini-flash-lite-latest
+      # held up for 56+ calls the same day with no quota error, so both
+      # roles now use it. No pinned snapshot exists behind this alias
+      # either way -- Google's docs state it "will get hot-swapped with
+      # every new release" with no published target -- so pinning was never
+      # fully available here regardless of the quota issue.
+      fast_model: "gemini-flash-lite-latest"
+      writing_model: "gemini-flash-lite-latest"
+    groq:
+      base_url: "https://api.groq.com/openai/v1"
+      api_key_env: GROQ_API_KEY
+      fast_model: "<unused: Groq fallback disabled, Gemini free tier only>"
+      writing_model: "<unused: Groq fallback disabled, Gemini free tier only>"
+  fallback_on_quota: false        # Groq fallback disabled per project decision: Gemini free tier only
+  max_requests_per_minute: 10     # stay well under the free-tier limits
+  cache_responses: true           # store responses in data/llm_cache/ so re-runs (tests, demo) use no quota

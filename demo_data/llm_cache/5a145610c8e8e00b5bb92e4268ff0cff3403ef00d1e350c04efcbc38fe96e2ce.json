@@ -1,0 +1,8 @@
+{
+  "content": "No, the fund does not use side pockets nor does it invest in unlisted securities (S02, S09). Under the fund's terms, unlisted securities are explicitly classified as excluded instruments (S02). Furthermore, fund policy expressly prohibits both unlisted positions and side pockets (S09).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1734,
+  "completion_tokens": 65,
+  "total_tokens": 2257
+}

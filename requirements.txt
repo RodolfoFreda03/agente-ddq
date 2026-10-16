@@ -1,0 +1,20 @@
+# Python 3.11+ (project uses 3.12)
+# Libraries from CLAUDE.md section 2.
+# imaplib, smtplib and email are standard library — not listed here.
+
+openai
+streamlit
+openpyxl
+python-docx
+pyyaml
+python-frontmatter
+python-dotenv
+scikit-learn
+matplotlib
+pytest
+
+# Milestone 9: real Gmail reading via OAuth (google-api-python-client +
+# google-auth-oauthlib), scope gmail.modify only -- the agent never sends
+# real email (see README "Connecting Gmail").
+google-api-python-client
+google-auth-oauthlib

@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"is_ddq\": true,\n  \"reason\": \"The document contains standard investor due diligence questions regarding fund service providers, fees, and liquidity terms.\"\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 170,
+  "completion_tokens": 38,
+  "total_tokens": 208
+}

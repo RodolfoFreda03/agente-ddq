@@ -1,0 +1,8 @@
+{
+  "content": "The research universe comprises approximately 700 companies listed in the European Economic Area, the United Kingdom, and Switzerland [S05]. The ordinary minimum market capitalization is EUR 750 million, with at least EUR 5 million of average daily traded value over 60 sessions [S05]. Additionally, up to 10% of NAV may be invested in smaller companies as long as they meet portfolio liquidity requirements [S05].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1759,
+  "completion_tokens": 92,
+  "total_tokens": 1851
+}

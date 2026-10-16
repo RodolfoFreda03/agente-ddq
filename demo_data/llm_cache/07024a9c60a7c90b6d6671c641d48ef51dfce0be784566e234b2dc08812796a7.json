@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"is_ddq\": false,\n  \"reason\": \"The document is a holiday party invitation rather than a due diligence questionnaire.\"\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 144,
+  "completion_tokens": 33,
+  "total_tokens": 177
+}

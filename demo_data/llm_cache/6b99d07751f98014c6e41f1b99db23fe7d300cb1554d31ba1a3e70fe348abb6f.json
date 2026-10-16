@@ -1,0 +1,8 @@
+{
+  "content": "The provided passages do not identify the specific firm that acts as the administrator and transfer agent. While the texts describe the roles, controls, and operational oversight associated with the administrator and the transfer agent, the actual entity name is not stated (S14, S15).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1652,
+  "completion_tokens": 55,
+  "total_tokens": 1877
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers provide the exact same total number of employees and identical functional breakdown.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 196,
+  "completion_tokens": 27,
+  "total_tokens": 223
+}

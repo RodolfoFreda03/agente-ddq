@@ -1,0 +1,8 @@
+{
+  "content": "Redemption proceeds are normally paid within five business days of the redemption date (S12). The redemption date occurs on the last business day of each month, requiring notice 10 business days prior by 12:00 noon (S12).",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1974,
+  "completion_tokens": 53,
+  "total_tokens": 2027
+}

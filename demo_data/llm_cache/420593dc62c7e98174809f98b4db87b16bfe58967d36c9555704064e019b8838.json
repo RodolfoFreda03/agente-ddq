@@ -1,0 +1,8 @@
+{
+  "content": "Based on the fund's service provider directory, the fund's auditor is Veridian Audit Luxembourg (S13). Its mandate is the audit of the vehicle's financial statements, and it reports its findings to the board (S13). The source notes that this entity is designated as a fictional provider within the scenario (S13).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1922,
+  "completion_tokens": 71,
+  "total_tokens": 2231
+}

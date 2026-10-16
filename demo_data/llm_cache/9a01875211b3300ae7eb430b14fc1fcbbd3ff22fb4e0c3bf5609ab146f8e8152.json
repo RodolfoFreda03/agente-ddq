@@ -1,0 +1,8 @@
+{
+  "content": "Investors can subscribe to Class I shares every business Wednesday [S12]. If a subscription day falls on a holiday, the subscription occurs on the following business day [S12]. A \"business day\" is defined as a day when banks in London and Luxembourg are open and the markets needed to calculate NAV are operating normally [S12].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1723,
+  "completion_tokens": 70,
+  "total_tokens": 1793
+}

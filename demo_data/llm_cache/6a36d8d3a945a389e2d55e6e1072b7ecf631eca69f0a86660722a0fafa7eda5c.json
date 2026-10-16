@@ -1,0 +1,8 @@
+{
+  "content": "Prior to investor admission, the transfer agent verifies identity, beneficial ownership, source of funds, and control structure, which includes screening against sanctions and politically exposed persons lists (S15). No shares are issued while essential documentation is incomplete, and distributor representations do not replace these checks (S15). High-risk cases require enhanced documentation and two approvals, including one from the AML officer (S15). Additionally, subscription payments are accepted only from accounts attributable to the approved investor, and third-party payments are held for review (S14).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1695,
+  "completion_tokens": 110,
+  "total_tokens": 3235
+}

@@ -1,0 +1,8 @@
+{
+  "content": "The annual management fee for Class I EUR is 0.85% (S11, S20). This fee accrues daily on the class net asset value (NAV) before accrual, calculated using an actual/365 convention, and is paid monthly (S11).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 2400,
+  "completion_tokens": 61,
+  "total_tokens": 2717
+}

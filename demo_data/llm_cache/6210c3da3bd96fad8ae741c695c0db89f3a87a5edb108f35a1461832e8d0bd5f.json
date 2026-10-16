@@ -1,0 +1,8 @@
+{
+  "content": "For Class I shares, investors can subscribe every business Wednesday, or on the following business day if that Wednesday is a holiday (S12). In this context, a business day is defined as a day when banks in London and Luxembourg are open and the markets needed to calculate NAV are operating normally (S12). While the fund also features Class F shares, the provided passages do not specify the subscription days for that share class (S02, S12).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1723,
+  "completion_tokens": 95,
+  "total_tokens": 2427
+}

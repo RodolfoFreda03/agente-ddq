@@ -1,0 +1,8 @@
+{
+  "content": "Based on the provided service provider disclosures, the depositary of the fund is Lumen Depositary Bank (S13). Its mandate encompasses custody, depositary, and operational banking services, which include reconciling assets and verifying cash flows (S13).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1923,
+  "completion_tokens": 50,
+  "total_tokens": 2133
+}

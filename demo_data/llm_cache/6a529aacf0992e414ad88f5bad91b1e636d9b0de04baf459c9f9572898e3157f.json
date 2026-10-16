@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers consistently describe the fund as a Luxembourg-domiciled open-ended sub-fund with segregated assets under the Aurora Strategies SICAV structure.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 207,
+  "completion_tokens": 42,
+  "total_tokens": 249
+}

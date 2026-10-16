@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"contradict\", \"reason\": \"Answer 1 states the firm is not named while Answer 2 identifies Northbridge Fund Administration S.A.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 156,
+  "completion_tokens": 35,
+  "total_tokens": 191
+}

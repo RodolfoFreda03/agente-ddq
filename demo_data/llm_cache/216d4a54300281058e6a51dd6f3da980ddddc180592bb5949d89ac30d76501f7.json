@@ -1,0 +1,8 @@
+{
+  "content": "Redemption settlement normally occurs within five business days of the redemption date, which is the last business day of each month [S12]. However, payment of proceeds may be delayed if the monthly 10% fund gate is triggered, in which case excess requests are carried forward pro rata to the next month and can defer redemptions for several months [S12]. Additionally, redemption dealing and payments may be suspended by the board under exceptional conditions, such as market closures, cyber incidents, unavailable payments, or when a material part of the portfolio cannot be valued [S12].",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1974,
+  "completion_tokens": 118,
+  "total_tokens": 2715
+}

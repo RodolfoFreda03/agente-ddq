@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"is_ddq\": true,\n  \"reason\": \"The file contains standard due diligence questions regarding fund operations, fees, and redemptions.\"\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 185,
+  "completion_tokens": 37,
+  "total_tokens": 222
+}

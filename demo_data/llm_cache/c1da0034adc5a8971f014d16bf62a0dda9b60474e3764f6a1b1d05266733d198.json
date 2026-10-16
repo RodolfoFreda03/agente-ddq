@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers state the same Class I net return of 7.65% for 2025.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 191,
+  "completion_tokens": 35,
+  "total_tokens": 226
+}

@@ -1,0 +1,8 @@
+{
+  "content": "While the names and roles of key professionals (such as Nicolas Walewski, Elena Marchesi, Thomas Berger, Sofia Laurent, Matteo Rinaldi, and Claire Dubois) are provided, individual remuneration and personal background checks for employees are not available [S03].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1851,
+  "completion_tokens": 54,
+  "total_tokens": 1905
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers identify Veridian Audit Luxembourg as the fund's auditor.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 128,
+  "completion_tokens": 26,
+  "total_tokens": 154
+}

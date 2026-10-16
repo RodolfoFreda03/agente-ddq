@@ -1,0 +1,28 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Virtual environment
+venv/
+
+# Runtime data (per-DDQ state, logs, LLM response cache) -- the developer's
+# real local working data. demo_data/ is NOT excluded: it's the curated,
+# fictional snapshot the public demo (DEMO_PUBLIC=true) ships with.
+data/
+
+# Simulated mailbox (folder mode) -- local test .eml files, may contain
+# real addresses used while testing.
+mailbox/
+
+# Generated output files (completed DDQs, PDFs, charts) -- rebuilt on
+# demand, never needed in the repo.
+output/
+!output/.gitkeep
+
+# Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.DS_Store

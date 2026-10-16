@@ -1,0 +1,8 @@
+{
+  "content": "{\"is_ddq\": true, \"reason\": \"The document contains a due diligence questionnaire with specific fund-related questions regarding service providers, fees, and operations.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 175,
+  "completion_tokens": 35,
+  "total_tokens": 210
+}

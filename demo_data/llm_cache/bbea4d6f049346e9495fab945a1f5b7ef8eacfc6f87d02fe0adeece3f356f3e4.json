@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers identify Lumen Depositary Bank as the depositary of the fund.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 134,
+  "completion_tokens": 27,
+  "total_tokens": 161
+}

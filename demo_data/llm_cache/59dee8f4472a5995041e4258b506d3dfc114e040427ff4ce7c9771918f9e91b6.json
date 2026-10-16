@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers contain virtually identical information regarding the fund's investment universe.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 244,
+  "completion_tokens": 26,
+  "total_tokens": 270
+}

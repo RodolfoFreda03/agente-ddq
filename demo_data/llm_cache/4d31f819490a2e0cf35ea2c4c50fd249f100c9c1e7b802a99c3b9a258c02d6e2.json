@@ -1,0 +1,8 @@
+{
+  "content": "The trade lifecycle begins when the portfolio manager creates orders in the order management system, which must pass risk and compliance checks before reaching a trader [S14]. Trade executions are matched against broker confirmations on the same day, and Operations verifies quantities, prices, funds, and counterparties daily, resolving exceptions by T+1 [S14]. For the reconciliation process, Operations conducts daily reconciliations of positions, cash, derivatives, and collateral against the administrator, depositary, and prime brokers [S14]. Any material breaks in positions or cash balances are escalated to the COO the same day, and bank reconciliation is maintained separately from payment authorization [S14].",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1706,
+  "completion_tokens": 134,
+  "total_tokens": 2397
+}

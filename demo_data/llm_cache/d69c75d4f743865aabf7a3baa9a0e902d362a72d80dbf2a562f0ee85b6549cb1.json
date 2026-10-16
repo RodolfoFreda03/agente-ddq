@@ -1,0 +1,8 @@
+{
+  "content": "{\"supported_statements\": 6, \"total_statements\": 7, \"coverage\": 0.8571428571428571}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1876,
+  "completion_tokens": 39,
+  "total_tokens": 1915
+}

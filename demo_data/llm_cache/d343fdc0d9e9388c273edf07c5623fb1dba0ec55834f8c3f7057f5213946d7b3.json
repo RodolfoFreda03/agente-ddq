@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers state that redemption proceeds are paid within five business days of the redemption date.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 143,
+  "completion_tokens": 29,
+  "total_tokens": 172
+}

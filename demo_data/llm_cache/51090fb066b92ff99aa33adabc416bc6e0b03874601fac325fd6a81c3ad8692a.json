@@ -1,0 +1,8 @@
+{
+  "content": "The research process proceeds through six stages: screening companies into a watchlist based on financial metrics, conducting three-year financial modeling and analysis, undergoing an independent challenge by a second analyst, performing pre-trade risk and control checks, and reaching a final decision with position sizing during weekly discussions [S06]. Finally, the investment is continuously monitored through daily market tracking and monthly thesis reviews, with each investment fully documented in a research note [S06].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1731,
+  "completion_tokens": 91,
+  "total_tokens": 1822
+}

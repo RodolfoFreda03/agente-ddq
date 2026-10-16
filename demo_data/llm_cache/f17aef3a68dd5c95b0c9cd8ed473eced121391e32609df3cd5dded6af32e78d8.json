@@ -1,0 +1,8 @@
+{
+  "content": "{\"is_ddq\": true, \"reason\": \"The document contains standard due diligence questionnaire questions regarding fund operations, fees, and liquidity.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 185,
+  "completion_tokens": 30,
+  "total_tokens": 215
+}

@@ -1,0 +1,8 @@
+{
+  "content": "The research process begins with screening cash flow, returns on capital, indebtedness, and stock liquidity to generate a watchlist of approximately 120 companies (S06). Next, analysts conduct in-depth analysis to build a three-year financial model across base, upside, and downside scenarios, documenting the investment thesis, valuation, catalysts, risks, proposed position, and exit criteria in a research note (S06). A second analyst then independently challenges the assumptions, accounting, and thesis risks, followed by control checks on ESG, concentration, liquidity, correlations, and stock borrow to form a risk opinion (S06). The process concludes with weekly discussions where the portfolio manager determines position sizing and grants authorization with an indicative maximum or minimum price within established limits (S06, S04).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1731,
+  "completion_tokens": 161,
+  "total_tokens": 2930
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"is_ddq\": true, \"reason\": \"The document is an explicit due diligence questionnaire featuring standard fund-related inquiries and response fields.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 198,
+  "completion_tokens": 31,
+  "total_tokens": 229
+}

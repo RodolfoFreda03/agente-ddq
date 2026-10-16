@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers provide the exact same explanation and conclusion based on the source.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 222,
+  "completion_tokens": 26,
+  "total_tokens": 248
+}

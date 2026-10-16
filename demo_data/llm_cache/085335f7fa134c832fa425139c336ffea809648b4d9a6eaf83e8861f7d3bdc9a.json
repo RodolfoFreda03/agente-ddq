@@ -1,0 +1,8 @@
+{
+  "content": "According to the simulated dataset, the Class I EUR full-year net return in 2025 was 7.65% (S10). This return is calculated net of management fees, performance fee accruals, operating expenses, and trading costs (S10). The figures represent invented scenario data rather than actual fund results (S10, S00).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 2193,
+  "completion_tokens": 78,
+  "total_tokens": 2547
+}

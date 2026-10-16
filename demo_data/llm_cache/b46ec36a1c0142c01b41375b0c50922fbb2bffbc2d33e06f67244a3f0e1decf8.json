@@ -1,0 +1,8 @@
+{
+  "content": "The fund's prime brokers are Aster Prime Securities and Boreal Prime Markets [S13]. These fictional providers are responsible for prime brokerage and stock borrowing, including providing stock borrows and separate counterparty statements [S13].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1923,
+  "completion_tokens": 46,
+  "total_tokens": 1969
+}

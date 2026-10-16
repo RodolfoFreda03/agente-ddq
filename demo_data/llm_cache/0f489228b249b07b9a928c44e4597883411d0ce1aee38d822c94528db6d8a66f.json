@@ -1,0 +1,8 @@
+{
+  "content": "Based on the provided source passages, the specific firm acting as administrator and transfer agent is not named. The passages only make general references to \"the administrator\" and \"the transfer agent\" without specifying the company's identity [S14, S15].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1652,
+  "completion_tokens": 53,
+  "total_tokens": 1705
+}

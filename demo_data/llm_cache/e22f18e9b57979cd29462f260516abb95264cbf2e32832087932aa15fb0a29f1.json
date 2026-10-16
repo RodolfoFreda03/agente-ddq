@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers provide identical information regarding the payment timeline for redemption proceeds.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 177,
+  "completion_tokens": 25,
+  "total_tokens": 202
+}

@@ -1,0 +1,8 @@
+{
+  "content": "The full-year Class I net return in 2025 was 7.65% [S10]. Monthly net returns during 2025 ranged from a low of -3.1% in April to a high of +2.7% in May [S10].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 2193,
+  "completion_tokens": 63,
+  "total_tokens": 2256
+}

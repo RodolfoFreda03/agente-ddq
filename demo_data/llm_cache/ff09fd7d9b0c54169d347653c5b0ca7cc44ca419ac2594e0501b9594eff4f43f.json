@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers provide the exact same depositary for the fund and identical details about its mandate.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 149,
+  "completion_tokens": 30,
+  "total_tokens": 179
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Payment processing enforces strict segregation of duties: the person entering a payment cannot approve it, transactions require two separate authorisers, and bank reconciliation is kept separate from payment authorisation (S14). Investor instructions cannot be altered based on a single email; the transfer agent requires confirmation through previously registered contacts and retains evidence of the verification (S14). Additionally, new beneficiaries and changes to bank details must be verified through a separate channel and undergo a one-business-day control period before activation (S14). Finally, subscription payments are accepted only from accounts attributable to approved investors, while third-party payments and urgent requests to bypass standard processes are held for review (S14).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1790,
+  "completion_tokens": 137,
+  "total_tokens": 2432
+}

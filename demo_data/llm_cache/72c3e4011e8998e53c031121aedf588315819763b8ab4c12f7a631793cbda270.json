@@ -1,0 +1,8 @@
+{
+  "content": "Aurora's research universe comprises approximately 700 companies listed in the European Economic Area, the United Kingdom, and Switzerland (S05). Eligible companies ordinarily have a minimum market capitalisation of EUR 750 million and an average daily traded value of at least EUR 5 million over 60 sessions (S05). Up to 10% of NAV may be invested in smaller companies, provided they satisfy portfolio liquidity requirements (S05). The universe is accessed through long equities, direct equity shorts, and short index futures, while structured and unlisted investments are excluded (S05).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1759,
+  "completion_tokens": 125,
+  "total_tokens": 2614
+}

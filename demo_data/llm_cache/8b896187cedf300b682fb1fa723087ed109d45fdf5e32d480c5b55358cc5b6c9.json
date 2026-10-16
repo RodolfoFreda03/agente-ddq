@@ -1,0 +1,8 @@
+{
+  "content": "The annual management fee for Class I is 0.85% (S11). This fee accrues daily on the class NAV before the accrual, using an actual/365 convention, and is paid monthly (S11).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1547,
+  "completion_tokens": 51,
+  "total_tokens": 1946
+}

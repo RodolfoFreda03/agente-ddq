@@ -1,0 +1,8 @@
+{
+  "content": "The investment management firm has a total of 24 employees (S03). By function, these employees are split into 8 in investments, 2 in trading, 3 in risk and compliance, 5 in operations and finance, 2 in technology, and 4 in investor relations (S03).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1715,
+  "completion_tokens": 65,
+  "total_tokens": 2157
+}

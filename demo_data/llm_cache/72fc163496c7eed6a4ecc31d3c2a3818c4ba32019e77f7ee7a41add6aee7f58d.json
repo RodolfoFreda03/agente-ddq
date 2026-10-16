@@ -1,0 +1,8 @@
+{
+  "content": "{\"category\": \"legal_regulatory\", \"figures_or_commitments\": 0, \"forward_looking\": 0}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 184,
+  "completion_tokens": 27,
+  "total_tokens": 211
+}

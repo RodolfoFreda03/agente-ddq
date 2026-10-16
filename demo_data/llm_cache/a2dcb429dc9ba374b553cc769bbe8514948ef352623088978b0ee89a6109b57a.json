@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"verdict\": \"contradict\",\n  \"reason\": \"Answer 1 states proceeds are settled within five business days, while Answer 2 states three business days.\"\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 108,
+  "completion_tokens": 40,
+  "total_tokens": 148
+}

@@ -1,0 +1,8 @@
+{
+  "content": "Based on the operating model outlined in the scenario, the fund's prime brokers are Aster Prime Securities and Boreal Prime Markets, whose mandate covers prime brokerage and stock borrowing (S13). The source notes that these service providers are fictional entities whose mandates describe the case's operating model rather than actual contracts or services provided (S13).",
+  "model": "gemini-3.8-flash",
+  "provider": "gemini",
+  "prompt_tokens": 1923,
+  "completion_tokens": 70,
+  "total_tokens": 2208
+}

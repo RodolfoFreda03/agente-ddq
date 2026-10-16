@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"category\": \"cybersecurity\",\n  \"figures_or_commitments\": 0,\n  \"forward_looking\": 0\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 191,
+  "completion_tokens": 34,
+  "total_tokens": 225
+}

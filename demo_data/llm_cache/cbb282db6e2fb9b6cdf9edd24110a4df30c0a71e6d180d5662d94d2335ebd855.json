@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers provide the exact same annual management fee and details.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 176,
+  "completion_tokens": 24,
+  "total_tokens": 200
+}

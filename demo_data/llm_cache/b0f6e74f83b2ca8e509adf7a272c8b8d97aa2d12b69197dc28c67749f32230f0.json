@@ -1,0 +1,8 @@
+{
+  "content": "Nicolas Walewski serves as the lead portfolio manager, assuming final portfolio decisions and research oversight [S03]. Elena Marchesi acts as the co-portfolio manager and deputy to the lead manager [S03].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1949,
+  "completion_tokens": 44,
+  "total_tokens": 1993
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"verdict\": \"agree\", \"reason\": \"Both answers state that the annual management fee for Class I is 0.85% and is paid monthly.\"}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 184,
+  "completion_tokens": 35,
+  "total_tokens": 219
+}

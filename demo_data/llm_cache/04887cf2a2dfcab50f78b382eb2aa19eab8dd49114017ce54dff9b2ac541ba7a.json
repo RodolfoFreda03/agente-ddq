@@ -1,0 +1,8 @@
+{
+  "content": "{\n  \"verdict\": \"agree\",\n  \"reason\": \"Both answers state that investors can subscribe on every business Wednesday, or the following business day if it is a holiday.\"\n}",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 201,
+  "completion_tokens": 41,
+  "total_tokens": 242
+}

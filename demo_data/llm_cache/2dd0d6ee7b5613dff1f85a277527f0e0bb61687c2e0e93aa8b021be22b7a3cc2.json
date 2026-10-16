@@ -1,0 +1,8 @@
+{
+  "content": "The fund is domiciled in Luxembourg and is structured as an open-ended sub-fund with segregated assets, operating as an umbrella vehicle under a fictional SICAV named Aurora Strategies SICAV [S02]. It is intended for professional investors [S02].",
+  "model": "gemini-flash-lite-latest",
+  "provider": "gemini",
+  "prompt_tokens": 1666,
+  "completion_tokens": 53,
+  "total_tokens": 1719
+}
